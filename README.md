@@ -4,7 +4,7 @@ Swift is been the de facto language for coding apps for iPhone, iPad, Mac, Apple
 ###Courses and Tutorials
   - [Swift Course by Apple](https://www.udacity.com/course/android-development-for-beginners--ud837)
   - [iTunesU Course by Apple ](https://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963)*(same material as above)*
-  - [Swift Playgrounds by Apple ](http://www.apple.com/swift/playgrounds/)*(not yet available)*
+  - [Swift Playgrounds by Apple ](http://www.apple.com/swift/playgrounds/)*(coming this fall)*
 
 ###Reference Materials
   - [Swift Reference](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/)
