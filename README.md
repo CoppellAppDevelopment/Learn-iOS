@@ -1,5 +1,5 @@
 # Learn iOS
-Swift is been the *de facto* language for coding apps for iPhone, iPad, Mac, Apple TV, and Apple Watch. It has recently replaced Objective C as the official language supported and taught by Apple. Swift is more versatile and simple to learn than its predecessor. Dive in!
+Swift is been the *de facto* language for coding apps for iPhone, iPad, Mac, Apple TV, and Apple Watch. It has recently replaced Objective-C as the official language supported and taught by Apple. Swift is more versatile and simple to learn than its predecessor. Dive in!
 
 ###Courses and Tutorials
   - [Swift Course by Apple](https://www.udacity.com/course/android-development-for-beginners--ud837)
